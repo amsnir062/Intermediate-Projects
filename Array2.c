@@ -1,3 +1,4 @@
+// WAP to input 5 numbers initialization in array and calculate the sum
 #include <stdio.h>
 #include <conio.h>
 {
