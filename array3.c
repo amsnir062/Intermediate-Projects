@@ -1,3 +1,4 @@
+// WAP to accept 5 subject marks and also calculate the total.
 #include <stdio.h>
 #include <conio.h>
 void main()
