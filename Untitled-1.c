@@ -1,3 +1,4 @@
+//WAP to input 10 numbers in an array and calculate the sum.
 #include <stdio.h>
 #include <conio.h>
 void main()
