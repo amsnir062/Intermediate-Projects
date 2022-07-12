@@ -1,3 +1,4 @@
+//WAP to enter the marks of 5 subjects and find its total.
 #include <stdio.h>
 #include <conio.h>
 void main()
