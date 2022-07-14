@@ -5,7 +5,7 @@ void main()
 {
   int i,j,num[10],temp;
   clrscr();
-  printf("Enter the numbers");
+  printf("Enter the numbers:\n");
   for(i=0;i<10;i++)
   {
     scanf("%d",&num[i]);
@@ -25,7 +25,7 @@ void main()
   printf("Number in ascending order is:\t",temp);
   for(i=0;i<10;i++)
   {
-    printf("%d",num[i]);
+    printf("%d\t",num[i]);
   }
   getch();
 }
